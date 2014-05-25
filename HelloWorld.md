@@ -3,10 +3,9 @@
 
 $ git add HelloWorld
 
-$ git commit -m '##This is a markdown file'
+$ git commit -m 'HelloWorld'
 
 $ git remote add HelloWorld https://github.com/pangkj/HelloWorld.git
-
 
 $ git push HelloWorld master
 
