@@ -1,12 +1,12 @@
 
 ## This is a markdown file
 
-$ git add HelloWorld
+$ git add HelloWorld.md
 
 $ git commit -m 'HelloWorld'
 
-$ git remote add HelloWorld https://github.com/pangkj/HelloWorld.git
+$ git remote add HelloWorld.md https://github.com/pangkj/HelloWorld.md
 
-$ git push HelloWorld master
+$ git push HelloWorld.md master
 
 
